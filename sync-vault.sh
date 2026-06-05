@@ -1,11 +1,12 @@
 #!/usr/bin/env bash
 # Sync selected vault folders into Quartz content/ for deployment.
-# Run this before `git commit && git push` to update the site.
+# Run before `git commit && git push` to update the site.
 set -euo pipefail
 
 VAULT="$HOME/Documents/History"
 CONTENT="$HOME/quartz/content"
 
+# These are the folders we track. Everything else in the vault stays out.
 declare -a FOLDERS=(
   "Dissertation"
   "Primary Sources"
@@ -13,21 +14,18 @@ declare -a FOLDERS=(
   "Evernote/Books"
 )
 
+echo "Syncing vault folders to content/..."
+
 for folder in "${FOLDERS[@]}"; do
   src="$VAULT/$folder"
   dst="$CONTENT/$folder"
   if [ -d "$src" ]; then
     mkdir -p "$(dirname "$dst")"
     rsync -a --delete "$src/" "$dst/"
-    echo "  synced  $folder"
+    echo "  OK  $folder"
   else
-    echo "  SKIP    $folder (not found)"
+    echo "  ??  $folder (not found)"
   fi
 done
 
-# Also copy top-level .md files that aren't in excluded folders
-for f in "$VAULT"/*.md; do
-  [ -f "$f" ] && cp "$f" "$CONTENT/"
-done
-
-echo "Done. Run git add/commit/push to deploy."
+echo "Done. Run: git add -A && git commit -m \"update\" && git push"
