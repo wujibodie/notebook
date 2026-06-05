@@ -4,7 +4,7 @@ title: Home
 
 # Notes & Research
 
-Ming dynasty history notes, focusing on 16th-century Minnan fiscal-military systems, maritime trade, and coastal defense.
+Mix of personal reading notes, notes for my dissertation on late Ming Fujian specifically, and some scanned primary sources made using my classical Chinese OCR engine. Currently this website is only maintained for personal use, but I may make it more "public-facing" eventually.
 
 - [[Dissertation|Dissertation research]]
 - [[Primary Sources|Primary source documents]]
