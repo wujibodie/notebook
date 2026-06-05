@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: bodenless.github.io
+  baseUrl: wujibodie.github.io/notebook
   ignorePatterns:
     - private
     - templates
