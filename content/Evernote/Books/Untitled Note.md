@@ -1,0 +1,3 @@
+---
+---
+And what about Zang Zhiping? The defeat of Lu Yongxiang saw Zang retire to Changzhou, closer to home, where he seemingly did nothing to gain the attention of further reporters or historians until he passed away of sickness in the early 1940s. At the peak of his career, in 1923, an article of Shusheng’s pictured Zang’s retirement: in Shusheng’s vision, the elderly general enjoyed true familial bliss, surrounded by his wives and concubines in a house full of the laughter of grandchildren. In lieu of more precise details regarding the last twenty years of Zang’s life, we might as well imagine him in just those circumstances, as forgetful of his brief, incidental, but pivotal performance at center stage in the history of Xiamen as he has himself been forgotten.

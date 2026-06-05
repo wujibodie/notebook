@@ -1,0 +1,28 @@
+Zhongguo Shehui Jingji Shi Yanjiu, 1990.01：56-64.
+
+- Since the 40s and 50s, Chinese scholars interested in the "sprouts of capitalism" debate have paid great attention to signs of a commercial economy, as this was taken as a vital precondition for a transition from feudalism to capitalism. 
+- ”但是不可否认，一些研究文章为了适应资本主义萌芽这 一理论构想，在观点论证和资料的选择运用方面，往往有些牵强附会， 缺乏访义感和说服力。” 56
+- In the early Ming, local mining was still a major source of silver, and Fujian was the third largest producer behind Zhejiang and Yunnan (per *official* mining quotas). Fujian's annual state silver taxes were 30-40,000 liang in the Yongle and Xuande reigns. Both Fujian and Zhejiang also had large "daokuang" populations; in the Zhengtong era the Zhejiang miner Ye Zongliu raided Fujian.
+- Sees Fujianese merchants as following the Spanish and Portuguese lead in trading overseas in the 16th century. 
+- Rural property relations were also affected by the rising use of monetary silver. Even fairly early examples of land contracts from Ming Fujian were often denominated in silver; he takes one example from Jinjiang in Yongle 18. 
+- Starting around the Tianshun or Chenghhua eras, the term "银主" began appearing in Fujianese land contracts. Cites a Tianshun 3 case from Jinjiang. 57
+	- Fu Yiling had thought this practice began around the Jiajing reign
+- During his time as xunfu, Xu Fuyuan promulgated a set of standards for land rental contracts, called 照俗收租. Xu's goal was to equalize payments since, with the shifting cost of rice relative to silver, long-standing contracts were becoming unbalanced; landlords would demand rent in grain when it was expensive and silver when grain was cheap. Xu banned landlords from forcing silver rents on lands where sharecropping was the old norm, and vice-versa. Also makes a note that measures should be equalized and fair.
+	- Chen notes that from this proclamation we can see that, far from liberating the peasants from extra-economic bondage, the shift to silver rents actually increased their rent burdens.
+- Silver rents were especially harmful to peasants because, assuming they weren't able to save silver, they would be forced to sell their harvests at the worst prices of the year in order to pay rent; and at other times they would be forced to take loans for their rent. Thus landlords and financiers profited from peasant inability to escape these seasonal rhythms.　５８
+	- Several illuminating quotes from 周之夔，弃算文集
+- In general the thrust of literati argument in the Wanli years was to *reverse* silverization of rents, and it seems this trend was welcomed by the peasants, which Chen Zhiping thinks is "worth chewing over." 59
+- Finds that at all times monetary rents were relatively rare; even in the Mingo era only around 11-12% of (rural?) rents in Fujian were paid in money. In Huizhou less than 1% of rents in the early 19th century were monetary. Summary: "How could we expect this level of monetary rents to stimulate the emergence of buds of capitalistic production?" 59
+- ![[Pasted image 20260501235756.png]]
+- Note: of the minority of (Qing) Fujianese land contracts denominated in money, almost 9/10ths were for mountain land! I.e., grain-producing land would normally have grain rents. 59
+- Finds that lands recorded in lineage genealogies  more frequently had monetary rents recorded than the land found in private contracts. 
+- "因此可以说，明清两代福建农村货币地租的一个重要特点，就是货币地租大部分集中在宗族和地方的共有田上。"61
+- In general, when a single family held both ordinary "temple" farmland and "mountain lands," the former paid in-kind rents and the latter paid money. 62
+	- Note that both examples he give compare private holdings of 祠田 to 山地.  
+- Many garden plots also converted to rents in coin or silver; Chen thinks this was because these plots were often separate from main holdings and had less predictable and more perishable harvests, so it made sense to sell the produce immediately and convert to money. "Under such circumstances, there was clearly no relationship between monetary payment of rent and the so-called "stimulation of production." 62
+- Believes that the monetization of lineage rents reflects the need of local lineage heads for money to pay for "public works" like schools, bridges, temples, and so on. 
+- Cites a few zupu which instruct lineage members to store rental grain until the second month (so early spring), when they can start selling to pay for ceremonies; lineages have the ability to wait for the season when grain prices are highest. 
+	- Chen Zhiping's interpretation is that these instructions demonstrate some anxiety about mismanagement, theft, or spoilage between harvest and market sale, hence a shift towards directly accepting monetary rent to avoid the "mafan" of storing and selling grain. I wonder how the rates are set -- maybe the landlords are able to use conversions that are higher than "harvest time" market prices?
+- To further illustrate that the level of monetization of rents in the Ming-Qing period was not sufficient to bring about a transition to capitalism, points out that of surviving Tang Dynasty rental contracts (from Dunhuang), around 37% were paid in money! 63
+	- Thus: "傅衣凌先生认为中国古代社会是一个既早熟 而又不成熟的社会，有其自己独特的经济发展道路。中国货币地租的实际情况显然与马克思所论述的相差甚远."
+- Final paragraph: ends on the point that while Ming-Qing China did have monetary rents, the choice of when and whether to charge in money was always in the hands of landlords, and particularly lineage heads, who used them when it benefited their interests. This was incomparable to the situation in early modern Europe, and thus Marx's theories cannot be rigidly applied to China. 64

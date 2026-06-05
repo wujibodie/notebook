@@ -1,0 +1,16 @@
+
+## Tu Zemin
+- 請設大城參將疏 (V. 353, p. 2796-7)
+	- Written after victory over Zeng Yiben, addresses the proposals to establish a Fujian military presence on Nan'ao. 
+- Letters: 與核院王又池議將書
+- 與巡海道副使張鳳來密東 (3797-8): Various naval field commanders have reported on bandits troubling 深奧，蓮奧. Forces are gathering for a battle around Xuanzhong, but Tu isn't sure that the weapons (including cannons and gunpowder) being manufactured in Zhangzhou city will reach the front in time (漳州所造百子銃，火箭，鳥銃，火藥，標槍，火炮之類，不知果足用否)。 Bemoans that Wu Guifang and (Guangdong Xunfu) Li blocked Qi Jiguang from crossing the border to finish off the "Guangzei," leading to two years of Fujian running up expenditures permanently guarding the border. Approves the levying of 30 ships 大鹽船大民船 and 3000 men from  Zhangzhou, but insists that they be used to finally 滅 the pirates: 但兵多，船多，費用比多，取辦必廣。
+- 上京中諸大老書（報捷）
+- 與閩中諸縉紳留餉書：Makes the case to the Fujian gentry that one more push of high military expenses will permanently solve the wokou problem: "然庶幾一勞永逸，暫費永寧，亦昔人已行之成策也。惟糧餉一端最爲吃緊，其舊有成額者，積逋難完，諒門下素悉，不敢贅矣。"
+- 與郭總兵書
+- 與巡海道副使張鳳來密東 - Discusses building boats and recruiting troops. Continues to push for "exterminating" the bandits:　大抵從古來，無不滅之賊，亦無不可爲之事。勢至此則賊有可滅之機，而事有可爲之端矣。38 ships are being constructed at Yuegang (note he still uses the old name!) while 9 more are brought from "north" (Fuqing?), for a total available force of 47 ships. In addition further reinforcements from the north are expected, and some of the requisitioned civilian salt ships have gathered at Yuegang. Zhang had suggested directly buying salt ships, which Tu considers a novel but unworkable idea. The general strategy is for land troops to guard major passes and wait for bandits to attack, then eliminate them before they can flee to their ships, while the navy merely patrols the bandits comings and goings and opportunistically attacks their ships when they land. These basic strategems still apply: 皆今日目前可使出境之計，諒貴道之所能自得，毋俟僕之喋喋也。Further notes that both Funing and Xing-Quan circuits are partially finished constructing major flagships 巨艦 to add to the existing 5 such ships. Ends exhorting the Haidao to work quickly to gather ships and troops to match Fujian's pace for their joint campaign.
+- 與兩廣總督廣東軍門書: To Wu Guifang on the Zeng campaign. 
+- 與李總兵密東：on how to deal with surrendered pirates.
+- 與李總兵書： on pirate defenses. 
+- 與俞夲二總兵書：To Yu Dayou on Zeng Yiben, who has supposedly fled to the waiyang. Complains that if the bandits flee whenever the navy forces gather in strength, it is difficult to wipe them out; further, the army has a hard time going abroad (兵難遙度，亦難遙制). There are three destinations for the bandits who flee to the ocean: Penghu, "小琉球," 倭國. Of these, Penghu is the worst option for them, a 死地, as there is no food or water. There is food and water on little Ryukyu, but as the Yi are hostile, it's hard to settle there; this is their middle preference. Wo guo is by far the best, as the pirates can get supplies and support and stay there for years, making it a serious headache. 3803
+- Several further letters to the same figures on the Zeng Yiben campaigns. 
+Volume 354: 諮文，文移 on military policies. 

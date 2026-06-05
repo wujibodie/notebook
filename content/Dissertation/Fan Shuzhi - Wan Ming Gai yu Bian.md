@@ -1,0 +1,5 @@
+Wang Zhi and Opening the Sea Ban 
+- Hu Zongxian's report on capturing Wang Zhi has two notable features: one, it calls 汪直, since Hu, as Wang's countryman, knew that his original name was 汪; and second, it defined him as a 海寇，not a 倭寇. 
+- One of Hu's followers, Tang Shu 唐樞, prepared a report titled 論處王直奏情覆總督胡梅林公, which proposed opening ports for maritime trade, with five arguments: 1. It would profit local society. 2. Frustrated merchants become pirates. 3. The trade could be taxed after becoming legible. 4. It would give work to those without other options. 5. By reducing immediate military pressure, it would give Zhejiang time to recover military strength. 73
+	- These were ideas circulating around Hu's camp by 1560... 
+- Notes that the Longqing 1 opening of the maritime ban is not attested in the Ming Shi Lu, and that most historians rely on Zhang Xie's account; but Xu Fuyuan gives a fuller description in his Jinghe Tang Ji, 疏通海禁疏。　77-8

@@ -1,0 +1,26 @@
+---
+---
+Confucian Ethics and Capitalism
+
+* Begins by dismissing the question of whether Weber was right about Confucianism being incapable of producing capitalism, and shifts to the question of why Chinese businessmen have "been so successful in embracing and developing Western capitalism." 
+* Weber himself predicted that the Chinese would eventually be “quite capable… of assimilating capitalism.” 
+* Following Braudel, relates various Chinese ethics with “market society” rather than “capitalism.” 
+* Chan Buddhists adopted agricultural work in the monasteries in the 8th century. “A day without work, a day without meals” became a common motto. 
+* Points out that both key features of “rationalization” were present in Ming/Qing China: “the principle of low prices and large turnover,” and “rational bookkeeping.” Business counsel from He Xinyin: “Buy a bit, sell a bit;” and “buy wholesale, sell retail.” Qing Dynasty already had the “four-legged account book,” a form of double-entry bookkeeping. 
+
+Business Culture and Chinese Traditions
+
+* The Zhou merchant Bai Gui: “I manage my business affairs in the same way that the statesmen Yi Yin and Lu Shang planned their policies, the military experts Sunzi and Wuzi deployed their troops, and the Legalist philosopher Shang Yang car- ried out his laws. Therefore, if a man does not have wisdom enough to change with the times, courage enough to make decisions, benevolence enough to know how to give and take, and strength enough to stand his ground, though he may wish to learn my methods, I will never teach them to him.13
+* Here, he is not speaking as a moral philosopher explaining to us the meanings of Confucian ideas such as “wisdom,” “courage,” “benevolence,” and “strength.” Instead, he is talking in the capacity of a “worldly philosopher” in the sense as Robert L. Heibroner has used it.14 In this remarkable statement, we find a cal- culating mind who is actually trying to enlighten us about how to ride with the tides in the vast ocean of the market by relying purely on cold reason. Drawing on the analogies of political action, military deployment, and legal enforcement, he is unmistakably promoting what in substance is referred to as “instrumental rationality” by Max Weber without that term.
+* On the topic of “impersonal relations:” “A minister makes a market deal with a prince by working to the utmost of his ability for him and a prince makes a market deal with a minister by bestowing on him rank and emolument. The relationship between prince and minister is not a natural one as between a father and son. It is based on mutual calculations.” 229 
+* Ming Hongwu banned the use of silk for  families which had even a single merchant as a member.
+* “Relaxation” of Tang rules against merchants around 750-800, including abandonment of sumptuary laws. Meanwhile, state began seeing private commerce as something to tax rather than suppress. (Both points from Twitchett)
+		
+
+Reorientation of Chinese Social thought in the Age of Wang Yangming
+
+* Around Wang’s time, a substantial minority of educated Chinese gave up on the idea of “gaining the emperor and bringing dao to the world” 得君行道, and turned their attention from the throne to society.
+* Song Dynasty was possibly the only time in Chinese history when the Confucian ideal of the emperor consulting with the 士 as equals actually existed. Wang Anshi as paradigmatic example of a leader of a self conscious literati class who was able to share power on a very equal basis with a cooperative emperor. On the other hand, Ming Hongwu slaughtered his own officials, eliminated the post of 宰相, and embraced the legalist principle that the throne’s power should be absolute. Result: Ming era literati increasingly emphasized “self cultivation” and work in local communities rather than quest for office.
+* Wang Yangming himself rejected this trend in favor of “leading the ruler to the dao” 引君於道. He found success at court during the rule of the young emperor Xuanzong, but when emperor Wuzong acceded the throne, Wang was imprisoned, beaten, and banished to Guizhou after offending a dominant eunuch. It was after this point (1508) that Wang realized the illusory nature of the 得君行道 ideal and had his “sudden enlightenment”, wherein he revised his understanding of Confucianism to deemphasize the throne and refocus on the moral cultivation of individuals. His notion of “innate knowledge” 良知 emerged at this point, in contrast to the theories of Zhu Xi which privileged the place of the educated (those able to study the moral principles of the external world) as the locus of moral action enacted via influence on the emperor.
+	* After returning to court, Wang consistently avoided direct confrontation with despotism and counseled those close to him not to attempt remonstrations which might prove fatal. His new political goal was not to improve governance from the top but to awaken the innate moral consciousness in all individuals and then recreate a more ideal social order from the bottom up.
+* Wang Yangming’s disciple Wang Gen 王艮 founded the Taizhou School 泰州學派, which was responsible for the popularization of the concept of 良知 among the common people through its public lectures. Redefined Dao in terms of daily activities of the common people 百姓日用.

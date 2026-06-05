@@ -1,0 +1,10 @@
+俞大猷在南澳抗倭斗争的作用 - 刘志家 （174-178）
+- The oldest bei inscription on Nan'ao relates how Yu Dayou, Liu Xian, and Qi Jiguang defeated Wu Ping on the island in Jiajing 44 after a 3-month campaign. The inscription says that Yu and Liu led 30,000 sailors, while Qi Jiguang brought 5,000 men from Zhejiang to aid them 自浙来援. (Interesting that the carvers depict Qi as coming directly from Zhejiang and not Fujian.) 
+- Notes that Nan'ao was depopulated for coastal security purposes twice, in the Hongwu reign and then in Yongle 7. 
+- Claims that Wu Ping rose to power in a milieu including pirates fleeing from Qi Jiguang's 1563-4 victories in Fujian, along with fresh "wo" arriving in Chaozhou with the spring monsoon. The group first ravaged Chaozhou-Huizhou then moved to a base on Nan'ao, chosen for its numerous well-hidden harbors. 
+- On arriving in Guangdong, Yu first "招抚"'d 2000 revolting peasants and enrolled them in his forces, and then began negotiations with Wu Ping to surrender, but Wu vacillated in part due to doubts over whether he could compel his men to join him. Yu then defeated Wu Ping at Zoutang 邹塘, and Wu fled to Zhao'an. (176) 
+	- There, he raided Dongshan and was attacked by Qi Jiguang under Wang Daokun. (See Qi and Yu's letters about Wu Ping from this time.)
+	- In a letter to Qi, Yu suggested a pincer attack: Fujian land troops from the north and Guangdong naval forces from the south. "须先灭其在海大小船，然后围攻于陆，不然必由海遁去，一时不能收拾也。"  However, Yu was unable to convince Wu Guifang to support this plan, and as a result Qi attacked alone, and Wu escaped to Nan'ao.
+- Thereafter, in September of 1565, Yu and Qi finally made their joint assault on Wu's base and successfully killed several thousand pirates and rescued 1800 captives, though Wu himself escaped (and Gu Yanwu claimed that he lived out the rest of his life as a wealthy merchant in Nanjing). 300 of Wu's ships escaped to Annam, with Yu in pursuit. Yu was eventually removed from office for letting Wu escape. 
+
+俞大猷招抚林道乾与林道乾

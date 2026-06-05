@@ -1,0 +1,4 @@
+- A quote from Wang’s 少室山房續稿序 where he defines poetry as “speaking the voice of the heart,” which is to be found by “diving” (concentrating) for the heart’s truth internally: “竊惟言志為詩，言心聲也。吾道卓爾，推潛心者得之。元瑞直以稽古而廢明經，屍居而絕戶屨，坐忘而冥合，官止而神行。其心潛已，潛則沉深，自然之所繇出也。” 16
+	- NB: The Yuanrui here is Hu Yinglin (zi 元瑞); Wang is properly speaking appreciating Hu’s talents at “diving in his heart,” not describing his own practice, but we can take it as a statement of what Wang values in poetry. 
+	- Taihanji j. 24. 
+- Takes as a typical “occasional poem” the 寶劍篇時客延平贈余德甫， written in Fujian to the vice-censor 按察副使 Yu Defu (余曰德), which describes some details of anti-wo battles. THJ 107.

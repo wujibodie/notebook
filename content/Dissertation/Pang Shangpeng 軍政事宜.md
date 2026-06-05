@@ -1,0 +1,25 @@
+Written by Pang in capacity as Fujian Xunfu. Basic principle: 節制之法以肅軍政，以責實效照得兵法. (Economization and regulation as core of military strategy.)
+- The core of 節制 is consistency + practicality to prevent "chaos" in the ranks: 即治衆如治寡，闘亂而不可亂，平時嚴放監督臨敵自有責成. Also emphasizes promotion by merit. 
+- First article: 是實, on procedures for verifying garrison rolls and replacing missing soldiers.
+	- Consistently emphasizes role of 哨官，哨長 etc. Proposes instituting 哨長 to oversee the 隊/營. They are to be executed if their regiment flees from battle.
+	- The reality of "實": surveillance and oversight. 
+- 保領庶上一心，肩指一體，此即所謂節制之兵能使千萬人爲一人矣. Generally presses the need for clear hierarchy, mutual responsibility, and harsh punishments to ensure constant vigilance.
+- Need to recruit reliable, fit men below 50, ideally ~30. No 市井遊滑之人.
+- Between Guan Zhong's simple formations and Kongming's complicated ones, Guan Zhong's are more suited to the times -- ethos of **simplification，** regularity and clarity in all things. 
+	- 陳法有且而簡者，管仲內政是。有曲而繁者，孔明八陳政是也。今之時，惟取其易行，責管子法其最切與實用乎. 
+- "今之軍，不患其不能合，而患其不能分。" Wokou and 山賊 are skilled at splitting up when fleeing, so soldiers must be comfortable operating in small units for pursuit. 
+- 159: Advocates for training with firearms 火器. Need to confirm that each regiment is properly trained in their use, as they are newly introduced via the Folangji; this is the responsibility of the 陳長 / 哨長. 
+	- List of useful weapons: 筤筅, 佛朗機，鎗棍鈀丫，藤牌腰刀. 
+- Calls for regular drills among the whole pops. of weisuo, with strong young men picked to replace the old or infirm in the registers. 
+- Articulates a series of training drills (marksmanship etc) with silver rewards for outstanding performance and fines or beatings for the incompetent.
+- Repeatedly emphasizes that drills must 求實用, preparing troops to fight in any conditions.
+- The 4 elements of drilling: 練心志，練技藝，練筋骨，練險夷.
+	- 1：The army must have clear hierarchies, yet move and feel as one body, superiors acting as fathers to their men. The sole motivation should be 榮辱; to achieve this soldiers must truly care about their superiors' approval, which should be kept scarce; thus 罰不可輕，施賞不可濫. 
+	- 2: Key to martial skill is specialization: 蓋技藝，易學而難精。諺云通百藝不如精一藝。"
+	- 3: Notes that soldiers are often soft and lazy 尚然士大夫, and unable to tackle campaigns in difficult terrain; need to keep up physical fitness and prepare for long marches, hiking etc. 
+	- 4: Since the 夷 often ambush in harsh terrain, it's not enough to practice drills in wide training grounds; troops must inspect and familiarize themselves with the very peaks, passes, and fords where battles might take place.
+- After setting standards for proficiency in various weapons, proposes ranking soldiers in 3 grades of skill with formations incorporating troops by level (e.g. frontline has more top-level troops, backline more 下).
+- Ends with a number of observations about wokou tactics: preferred formations, battlefields, etc. Notes that they tend to recruit 漢人爲奸, bribing them with stolen gold + silver, silk, or women, and thus gaining access to quality artisans and local knowledge. They seem to always know who the rich families in each village are, and where they live... 
+	- They also tend to be apprised of troop movements, the better to either ambush or disperse, wearing 漢人服飾 and melding into the fields and streets. 
+	- Note that Pang repeatedly uses 漢人 and 夷 as the key distinction here. 
+- Final line: “夷情譎詐如此，不可不察也.”

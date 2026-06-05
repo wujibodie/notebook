@@ -1,0 +1,8 @@
+
+- Karl v. Savigny hat das Wort geprägt: „Eine Großmacht ist und wird der Norddeutsche Bund durch Preußen, eine Weltmacht durch die Hansestädte‘.' 43
+- The institution of consulates for commercial cities was introduced by the Italian city-states in the 16th century and had spread to Germany by the 17th. By 1649 the Hansa had consulates in Lisbon, Madrid, Cadiz, Malaga, and Sanlucar; Iberian consular reports would be sent to Lübeck and then forwarded to Hamburg and Bremen, though Hamburg was primarily responsible for selecting and paying for the consuls. (The process of consular confirmation seems to have been the same as in 1866.)
+- The first Hanseatic commercial treaty after the abolition of the HRE was with Great Britain, in 1825, and numerous treaties followed. In some cases the treaties covered all 3 Hansa cities, other times the cities negotiated independently. 
+- The system of Hanseatic consulates "bloomed" in the 1830s, when they were founded in numerous European and colonial ports. 
+	- By 1866 Hamburg was represented by 281 consulates around the world, and even Lübeck counted 198. (Presumably these numbers include the joint Hanseatic consulates.) 47
+- "Das Interesse an einem Konsulat war groß und führte z.B. im Falle eines Herrn Pistan in China zu einer Art Selbsternennung, die bei den Hansestädten Befremden und Zurückhaltung auslöste." 49
+- In 1866 there were Hanseatic Consuls in Ningbo, Yingkou, Shantou, and Tianjin; consuls for the three individual cities in Canton and Shanghai; and consuls for Hamburg in Fuzhou and Xiamen. 58

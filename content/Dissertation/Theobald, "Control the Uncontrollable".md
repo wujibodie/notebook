@@ -1,0 +1,4 @@
+
+"In China seigniorage played a very marginal role in monetary politics. As in the Confucian world of thought the production and issuing of money was to be
+something ‘beneficial to the people’, it was deemed to be beyond the pursuit of profit. As a consequence, production cost surpassed the face value of copper coins by far, as Kuroda Akinobu says. Another reason for this was the desire of the government to produce high-quality cash.93 This is all the more true for
+small cash, whose production cost is relatively high compared to that of coins of larger denomination.94 The only period during which the Chinese government profited from the seigniorage was in the very late Ming, when new troops fighting against the Jurchens had to be financed, and in the early decades of the Qing, before the state treasury was consolidated.9" 23

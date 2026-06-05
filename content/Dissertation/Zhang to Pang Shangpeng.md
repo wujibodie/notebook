@@ -1,0 +1,9 @@
+**与应天庞巡抚**
+- Approves of Pang's memorial (on the Single Whip)， particularly of the notion that it would allow for better central account-keeping. Zhang has discovered that there is not enough silver to cover border expenses, yet there is also no way to extract more from the populace. Assures Pang that he supports him against rumors and criticism. 
+
+**答閩撫龐惺庵**
+- 仆之倾向于左右，自公在台时己然，此亦公所自知也。中更多故 不获引置于云霄，然鄙心未尝忘。顷以闽台虚席，乃得遂其夙心。然公困踬久矣，今不引之康庄，而复顿之畏途者，良以此中人情多变，借城望弹而治之。而公因此亦大有所树植 以塞忌者之口 则由此升亨衢 执躯，其势为易。则仆之所以忠于为国，而笃于荐贤者之赤心也。至于主持公是，摧抑浮枉，则年来庙堂之举动，公既闻之矣，又何虑焉？如地方事宜, 不妨一一垂示。
+- Expresses that he is appointing him to Fujian Xunfu after not forgetting him during his years of “misfortune.” Warns him that it is a perilous position, but it will offer a good chance to clear his name and rise higher, while Zhang has taken care of lingering troubles at court, such that Pang can enact reforms without worry. Ends by encouraging Pang to keep him directly apprised of local affairs. 
+
+**答閩撫龐惺庵** 2
+- Separates the letter into two parts: first, on military salaries, Pang has reported that the province has sufficient budget, and Zhang thus suggests giving tax exemptions, before defending his own programme as having been necessarily harsh at first, but taking the peoples' good as its standard; he compares himself to Zichan. Second part is on money; he expresses support for policies that will make copper more expensive vis-a-vis silver, as this will increase the value of the money used in ordinary life and thus lessen the burden of (devalued) silver taxes. He is pleased at Pang’s report that money is flowing well in Fujian (and perhaps by extension that Fujian is a place where silver is relatively cheaper vis a vis copper?), and hopes it is an omen of things to come elsewhere. 

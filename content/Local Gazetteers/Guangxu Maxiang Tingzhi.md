@@ -1,0 +1,24 @@
+Original Preface
+- Notes that the 別駕 of Quanzhou has moved 4 times: first they were based in the prefectural city, then Anhai, then Jinmen, then finally Maxiang. The role of this official was to oversaw military rations in Jinjiang and coastal defense in Tong'an (其初雖經徵晉邑兵米統轄同邑海防), but since it was just part of Tong'an it was never given its own gazetteer. Now Maxiang has been separated as a *ting*, so it is suitable for it to have its own record. In the compiler's opinion, the 別駕 now has authority equivalent to a *zhixian*, directly overseeing five walled cities, and Maxiang should be seen as a county in all but name.  
+	- Maxiang ting was established in Qianlong 39, with the *tongpan* of Jinmen moved there, in large part due to the frequent legal disputes related to the harbor settlements there. An office was built at Maxiang to oversee 都圖，戶口，賦役，稅課，船政，鋪遞，科甲，貢監等類." 1
+Juan 4 - 賦役
+Second line: “聖朝永不加賦，含哺鼓腹，歌詠太平，久已." (35) Very different message from the Ming gazetteers!  
+- As a result of these mild taxes, the population of the three li under Maxiang has grown, and there are a total of 3790 名目 (taxed holdings). Note that all tax registers are split between those pertaining to Jinmen and those pertaining to the 3 mainland *li*, forwarded from the Tong'an county tax office. 
+- In the mainland 3 li, 官折寺田 is 14 qing, 23 mou, taxed at a rate of .1026 taels per mou, bringing in an annual total of 146 liang -- actually one of the larger tax categories in the ting. (Compare the large categories 不派本色鹽戶田地, at 137 qing, 83 mou, taxed at .05 taels per mou, bringing in a total of 692 taels, or the largest by far, 均派本色征料差增民戶田地, with 451 qing bringing in 3851 taels.)
+- Note that the majority of the population on Jinmen is in saltern households: just 68 ding are registered in minhu, compared to 497 in salt households. By contrast, on the mainland, there are 1773 minhu ding, and 334 saltern ding. \
+- Combining Jinmen and the mainland li, the district produces tax grain of 644 shi and change, which is designated for  Tong'an military use (碾給同安營兵米之用). 
+- Editorial comment: In the past, the various levies were a major disturbance to the people's livelihoods. Ever since the 丁歸于糧, this problem has been fully solved (盡掃其弊). 45
+
+Juan 7 - 海防
+- Reproduces an interesting memorial by one 萬正色，閩海善後疏. Focuses on the unique difficulties of defending against threats from the ocean, and the need to 遷界, while keeping some troops on the islands: 若以陸師僅守內地，而以水師沿海設鎮，內外交防庶可？Goes on to propose specific troop positions in Xiamen, Jinmen, etc. 
+- In the 風信 section: "明戚繼光防倭海上，於風信最爲詳審。嘗作風濤歌，使軍士咸誦之。其詞曰：日暈則雨，月暈則鳳。何方有缺？何方有風？" 64
+- Full: 明戚繼光防倭海上於風信最為詳審嘗作風濤歌 使軍士咸誦之其詞曰日暈則雨月暈則風何方 有缺何方有風日沒胭脂紅無雨風驟返照沒前臙 脂沒後星光閃爍必定風作海波雲起謂之風潮 名曰颶風大雨相交單起單止雙起雙消早晚風 和明日更多暴風日暮夜起必毒風急雲起愈急 必雨雨最難晴仍防暴生春易傳報早生晚耗一 日南風一日北到南風防尾北風防頭南吹愈急 北即不專雲車形大必主風聲雲下四野如霧如烟名曰風花主有風天雲若鱗次不雨風顛雨陣 西北風如潑墨起作𩗗⿰風梁風雨先颺雨急易霽天 晴無防水生靛青主有風行海燕成羣風雨便臨 白肚風作烏肚雨淋海豬亂起風不可已逍遙夜 叫風雨即至一聲風二聲雨三聲四聲斷風雨鱟 籠得緯必主風水蛇蟠蘆上水高若干頭垂立至 頭高稍延月盡無雨來朔風雨廿五六若無雨初 三四莫行船春有廿四番花信風梅花風打頭楝 花風打尾正月忌七八北風必定發二月忌初二三月忌清明五月忌雪至正月落雪起算至百廿 日期內必難已欲知彭祖忌六月十二日前後三 四宵必不爽此朝七八三日南必有北風還九九 當前後三四日內難十月忌初五三四之後前冬 至風不爽臘月廿四閒月臨箕畢翼軫四宿風起 最準.
+
+Juan 15 - 人物
+- First bio is Lin Xiyuan, then Hong Chaoxuan. 
+Juan 16- 烈女
+- None of the Ming bios seem to mention deaths in Luzon, though there are husbands who drowned in fishing boats or trading in Annam. A fairly large number committed suicide after their husbands died in wokou incursions, or were themselves kidnapped by pirates/bandits and killed themselves to preserve their chastity or spare their families from paying ransoms. There are dozens such bios just from the Jiajing years (what is the source?).
+- One long bio focusing on a woman abused by Zheng Chenggong's relatives during the Shunzhi reign: 
+  許初娘，後浦許文衡女也。美姿容，性幽閒，不慕繁華之習。年十八，適陽翟陳京，京貧。順治乙未春從軍遠出，初娘歸寧其父。父留焉。秋，戎馬躪安平，安平諸豪挈家渡浯奪民廬居之。文衡家分前後院，其前爲鄭泰家奴所據。鄭泰，遵義侯鄭鳴駿之兄，豪而尤橫者也。初娘慧，聞奴爲泰心腹，恐遭侮，先令文衡扃鍵其前楹，而於屋後啟戶行。泰子纘緒素以輕薄稱奴，果竊伺初娘麗，白纘緒。纘緒潛投奴處乘隙而窺之，大悅。不數日遣婢致金珠紈綺，備述纘緒意，初娘正色拒之，纘緒度不可以利誘，而又心蕩不自抑，遂謀諸奴夜踰牆直抵初娘寢室。初娘驚急呼文衡。文衡臥稍隔弗寤，纘緒將排闥進，初娘且罵且走大呼擒賊不止。鄰人皆索火起，視纘緒懼而逸達旦。纘緒既不遂其謀而又惡初娘之驚眾，為賊所疑，命奴自毀其垣劈裂笥篋搜言有盜盜其金，用釋昨宵呼賊之故，而因嫁禍。文衡以洩其忿，謂盜由文衡所引，執而拷掠之，不服，復拘其六歲幼子鞭撻不勝痛楚，傴合言父通盜，狀遂受誣，文衡素以謹愿聞於鄉。鄉人亦咸識其冤而畏泰燄張，纘緒更狂肆，無敢竟，無敢起而直之者。纘緒戀初娘不已遣人諷之曰：若順我，我代若父償金，若父可活。不然則并累若。初娘叱曰：使我失身而又實父之所盜，寧死耳。纘緒恚甚，離其母呂氏，執初娘來掠之，求贓物所在，初娘與父訣曰：兒不死，父死終不雪也。指呂罵曰：我名家女為名門婦，爾子欲盜人妻不可得，反誣人以盜，真盜之不若也。呂怒曰：安有吾子而肯盜人之妻者？報泰。先是，泰已為子所紿，亦怒，入見初娘，括擊亂下，初娘仆地，血被面，猶厲聲曰：鄭助爾舉家橫虐若此，我死當為厲鬼滅爾門。（鄭助者，鄭泰之小名也。）泰益憤蹀足踢其陰，立斃。後使人舁尸於舍旁溝中，詐言赴水死。溝實無水，出棺殮，殮而歸之，尸已無完膚，勿令家人見也。越數日外議騰沸，泰始知纘緒謀，不懌，釋文衡，而京自軍中歸訟於官。鄰里雖劇憐初娘之死，終畏泰莫為之証，坐証反受重責。自是遂無有言初娘死事者。後呂得惡疾見鬼死，而泰與纘緒及其奴皆無恙，人謂初娘之恨猶未償也。初娘死時年二十有三。
+- In the 節孝 section, the first bio does mention Luzon: 蔡氏 is married to one Xu Yuan, who decides to sell the family property and move to Manila, leaving his wife with her uncle and aunt despite her complaints. He dies abroad (客死, no specifics). 
+- The last section of the biographies are reserved for the mother and wife of Hong Chaoxuan.

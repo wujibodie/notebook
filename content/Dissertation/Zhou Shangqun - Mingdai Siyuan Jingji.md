@@ -1,0 +1,4 @@
+
+108: Declines in temple land ownership from Song to Ming. Cites figures that in Song Fuzhou temples (combining Buddhist and Daoist) owned 17.2% of 田 and 25% of other categories (山地，園林，池塘等). In Zhangzhou one informal estimate (by one 陳淳) was that temples owned 70% of land; while this was surely exaggerated, the perception was that they were dominant land owners. In Ming Zhangzhou, by contrast, they held 4.23% of land in 長泰，1.86% in 海澄, and 15.13% in 龍溪. Evidence of substantial decline. 
+- Note the difference between the metropolitan county, where large temples were likely established at the start of the Ming, and Haicheng, a late-established county where large amounts of farmland were reclaimed from the sea in the Ming. Note also that temples are not involved here in land reclamation, diking, irrigation works, etc, as they were in the Song -- those tasks are organized now by the lineages. 
+ 

@@ -1,0 +1,6 @@
+---
+---
+Intro
+On Curtin's idea of "merchant diasporas:" "Thus, K.N. Chaudhuri notes for example that 'some caution is needed in using the term "trading diasporas" as an analytical tool. The argument that merchants who live and operate through dispersed communities constitute a special category because they need to work through family or common friends is not really valid as a theoretical proposition. Merchants and traders in our period conducted business through close-knit groups, irrespective of their location; whether they lived at home or in foreign lands, that is how they worked'. 6 Thus, Chaudhuri wishes to suggest that the emphasis on spatial dispersion (implicit in the very word 'diaspora') may be irrelevant; rather the tendency to monopolise trade in goods, to possess a collective social and political organisation of an informal nature, and to exchange commercial information thereby, all these are no more than 'the general characteristics of human behaviour'.
+
+A rather more serious consequence of the idea of the 'diaspora' is that it de-historicises merchant communities, creating a form of false congruence between the activities of such groups, which were in fact quite varied over space and time."

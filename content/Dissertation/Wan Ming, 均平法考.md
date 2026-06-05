@@ -1,0 +1,11 @@
+Article exploring the 欽依兩浙均平錄, a 1566 document circulated by Pang Shangpeng (with imperial approval) to all the fu zhou and xian of Zhejiang detailing the 均平 practices to be implemented. Wan Ming describes it as "the most complete document of a Ming Dynasty fiscal reform." 146
+- Provides a brief history of the 均平 concept on 147, focusing on ancient examples, e.g. Zhouli and Mengzi. Note that in Mengzi's case, he is clearly discussing *land distribution* in the 井田 system -- something incompatible with private ownership of land in post-Song China. (Wan Ming doesn't make this distinction.)
+- Upon arriving in Zhejiang in 1565, Pang Shangpeng immediately memorialized that, of the 積弊萬端，惟里甲为甚。
+	- Pang's proposals were approved by then-Hubu Shangshu, 高耀. 
+- Pang wanted his proposals to be enacted across the empire: "再照里甲之困，恐不独两浙为然，而均平事宜似可推之各省." 149 (citing the 节冗费定法守以办里甲疏)
+- Explores the earlier history of 均徭 in Zhejiang, enacted by 朱英 in 景泰1 (1450), not in the Tianshun reign as some have believed. 
+	- The Ming Shilu record from that year which Wan cites connects the proposal to two factors: 1. rampant banditry and 2. the collapse of paper money's usefulness as item of taxation. In other words, quite similar fiscal pressures to the 1560s... 
+- Upon leaving Zhejiang in 1566, Pang memorialized about the Single Whip policy which he saw was functioning well in Yuyao and Pinghu, and which he saw as carrying similar policies as his Junping laws to a broader scope. 
+	- Wan Ming summarizes the relationship as follows: 二者只是范围不同，均平法主要是里甲正役的改革，而一条鞭法事将所有赋役合并，再犯围上更为宽泛。152
+- Wan notes that Pang probably knew of Pan Jixun's junping reforms in Guangdong, but no record of those reforms survives comparable to the one we have for Zhejiang, so Pang's reforms can be studied in more detail; it's hard to know precisely how close his package was to Pan's. 
+- 

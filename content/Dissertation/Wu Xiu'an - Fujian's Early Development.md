@@ -1,0 +1,72 @@
+
+- Beginning from a call to Braudel's geographic-economic history, sketches a basic picture of a Fujian divided between coastal and interior regions with distinct courses of economic development. Major research questions: What were the differences in medieval economic development between these regions? How were those courses of economic development related to cultural and societal changes? How did coast and interior come to form two distinctive "regions"?
+- Previous scholars have been divided on whether Fujian's economic development was kickstarted in the Sui-Tang period or in the Min period; Xu Xiaowang's 闽国史 as example of the latter. 
+	- Criticizes previous research for treating Fujian as an integral whole and ignoring regional distinctions (e.g. 林岭， 五代十国时期福建商品经济的发展与地理基础). 
+	- Books mentioned as major influences: 徐晓望，妈祖的子民；杨国桢，东冥水土；陈友良，略论唐宋元时期闽北山区的开发与发展.
+	- A debate began in the 1930s over the location of Ye, the old capital of Fujian *dao*, 
+	- Points out that research on Fujianese linguistics classes the major dialects (excepting Hakka) in two major groups, inland and coastal; sees this as a reflection of historical geography. 
+- 六朝时期行政建置
+	- At the time of Sun Wu's foundation, Fujian had only a single *县*， modern Fuzhou.
+		- For some time Wu focused on battling the 山越 in NW Fujian, but the last war against them was recorded in 257. Wu then established counties down the coast to modern Nan'an. Shipbuilding workshops were established at the Minjiang and Jinjiang mouths. 
+	- The Jin placed the whole Fujian coast under 晋安郡, separating it from inland Fujian past the Minzhong mountains. 
+	- 晋安 was raided and occupied in the rebellion of 孙恩 and 卢循 in 399-410；Lu in particular relied on naval raids.
+	- During the Liao coastal Fujian was home to rebellious elites who had to be put down, allowing "the people to return to work and the travelling merchants to pass through 居民复业，商旅流通," but rebellions/public order remained a constant problem. 70
+	- A 闽州 was created for the first time in 502 to mollify the powerful  晋安 陈 family, but it was abolished by Chen Wendi when these rebelled anyway. 
+	- Immigrants' origin and dispersal:
+		- Several waves of garrisoned soldiers were placed in north Fujian during Wu's wars against the Shanyue c. 200-257. Wu also systematically sent convicts to settle Fujian. 
+		- Refugees are recorded as fleeing to Min from Jiangnan in the Qi-Liao and Liao-Chen transitions. 
+			- 陈宝应 encountered hungry refugees while selling food along the coast in the early Chen
+	- Archaeology of settlement: Han influence was minimal in Han-era burials in Fujian, but after the Jin more and more Han-style tombs are to be found. 
+		- In general inland tombs resembled those in Jiangxi, while coastal ones resembled Yangtze delta tombs during the Jin before developing their own style by the Chen. 
+		- Although the 6 Dynasties tombs have been taken as a sign of "衣冠入闽," Wu emphasizes that they were small and have not been found to have 墓志 -- i.e. these early immigrants were poor and not connected to a literate shi class. 95
+	- Economy
+		- In the 6 dynasties silting and sea level drop opened new coastal lands, and there are signs of expansion in arable land at this time, e.g. through clearing lakes and marshes. Paddy agriculture is evidenced along the coast in this period; at the end of the Liao Chen Baoying was even able to export grain to Zhejiang. 
+		- The Sui appointed an overseer for hemp cloth production in Jin'an; this was based on wild 葛 hemp, not cultivable 麻. 
+		- The earliest pottery kiln found in Fujian dates to the Liao; pottery shards from earlier years may have been locally-made or imported. 
+- 隋唐五代
+	- The political boundaries of Fujian were largely set in the mid-Tang, with the establishment of Zhangzhou and Quanzhou as zhou. By the Song unification coastal Fujian consisted of 23 xian under Fuzhou, Quanzhou, and Zhangzhou zhou. 
+		- Wu notes a tendency to create new inland counties in this period, esp. along the Minjiang, suggesting that inland and coastal Fujian were finally starting to be connected at this time. 127-128
+		- Wu attributes the massive population growth between the Sui and Song (from <100,000 to >2 million registered individuals) more to immigration than natural increase -- biggest cited movement is that led by 王潮 and 王审知, which is said to have brought 20-30,000 people at the end of the Tang. 
+			- Notes that Fujianese burial practices shifted to "northern" patterns in the late Tang 151
+			- Related: refugee waves of the late Tang, unlike previous ones, included notable Shi families. 
+		- By the late Tang the sand islets which would become core parts of urban Fuzhou and Quanzhou had fully emerged
+			- These areas had to be diked and dredged for agriculture before becoming viable for large-scale settlement - "充份说明泉州港的兴起是有其农业经济基础的。"
+		- According to the 太平寰宇记，Quanzhou already had double cropping rice by the start of the Song 158
+		- Origins of Tong'an: in the reign of Zhenyuan of Tang a 大同场 was created after a salt market developed on the coast. It was raised to a xian in the Later Jin era. 
+		- Mining: While early attempts to open silver mines on the coast largely failed, Zhangzhou and Quanzhou still regularly provided tributes of silver (and sometimes gold) throughout the 5 dynasties and early Song. This was true even when they were cut off from the mines of inland Fujian. Wu takes this as evidence that these regions imported precious metals from overseas. 173
+			- Even without considering overseas imports, by the end of the Five Dynasties Zhang-Quan had developed gold- and silverworking industries, while the mountainous inland supplied raw metals. 174
+		- By the late Tang numerous pottery kilns were found all around Xiamen and Quanzhou bays, and even began to spread into the hill regions. 
+			- Wu asks how to explain this phenomenon, as the region was still relatively poor and the quality of pottery was too low for export; what pressure could have caused kilns to spread into marginal hillsides?
+			- Fuzhou's pottery demand was largely served by the Huai'an kiln on Nantai Island in the Minjiang delta, just outside the urban walls; this kiln also exported abroad, including to Japan, between the 8th and 10th centuries. Even so, these were relatively low-quality and cheap compared to the pottery exported from Yangzhou, Mingzhou, or Guangzhou. 
+		- According to the Taiping Huanyu Ji, Fujian was home to a "barbarian family 夷户" called "Quanlang 泉郎" which specialized in building tall-prowed ships for ocean travel. By the start of the Song Fujian was known as the region which produced the best naval vessels. 177
+		- The Min Kingdom routinely submitted overseas luxuries to other states as tribute. The Wang rulers sent pearls, ivory, and vague "spices 香药," while Chen Hongjin submitted huge quantities of incense, camphor, pepper, ivory, tropical wood, pearls, and glass (!) after surrendering to the Song. 184
+		- Explains the rise of maritime trade in Fujian during the 5 Dynasties period partially by the heavy taxes the Min Kingdom and local warlords levied to survive with their relatively small tax base. The Min rulers' devotion to Buddhism also contributed to the fiscal pressure which maritime trade helped resolve. 
+			- At first Fujian served mainly as a transshipment entrepot, but the growth in kilns at this period suggests at least some movement towards satisfying overseas demand with local production. 
+		- A Buddha sculpture in Quanzhou dating to 946 is inscribed with the names and titles of a number of officials whose offices involve overseeing foreign trade, showing that a bureaucratic structure dealing with maritime commerce existed in the city by that time at the latest. 187
+		- Reasons Fuzhou was surpassed by Quanzhou as a port after the late Tang：1. The Min River mouth was considered more dangerous for ocean-going ships to navigate. 2. After Wuyue conquered Fuzhou in 945, Zhang-Quan was left independent (under the rule of first Liu Congxiao and then Chen Hongjin), with the result that Quanzhou's rulers encouraged its trade connections while Fuzhou's neglected it. 188
+		- In Minxi, the major river valleys were largely full by the end of the Tang, and people began intensively cultivating the hills. Whereas the valleys were dominated by paddy rice, the hills farmed drought-resistant dry rice and, above all, millet. 
+			- During the Five Dynasties period Jianzhou became known for tea, and cultivation spread to other parts of inland Fujian as well. 
+			- Pottery kilns became prevalent along rivers with good access to charcoal in the late Tang, especially along the Jianxi. In general these kilns followed the production patterns of the Zhejiang qingci kilns.
+			- The Jianzhou-Fuzhou 抚州 route developed in importance by the early Song not only as an outlet for the northwest, but also as a means by which foreign goods from the coast could be shipped to central China -- regional and broader economies developing together. 197
+				- Note that this depended on the late Tang construction of good roads following the Minjiang, which allowed for easier upstream transport
+
+Medieval Fujian's Local Powerholders
+- Wu believes that a stratum of locally-powerful landholders began to emerge under the influence of "Han" culture from the Sun Wu era on, developing into a substantial social force towards the end of the Six Dynasties. 
+- Most prominent among the local clans were the "Four Great Surnames of Min." The most powerful at the Liao-Chen transition were the Chens of Chen Baoying; Wu sees the ability of Chen Baoying to project power to Zhejiang and elsewhere as representing the first time when coastal Fujian was developed enough to be worth reckoning with even compared to the Yangtze delta. 
+	- The other three "great surnames" were Huang, Lin, and Zheng, cited by the Tang scholar Lin Xu as having reached Fujian at the time of the Yongjia rebellion (311), though Wu is skeptical of this story. He cites a Ge Jianxiong, who believes all four "great surnames" were more likely acculturated indigenes. 213
+	- Notes that a Zheng and a Lin led the major local rebellion against Sui Yangdi, with their forces said to number 30,000, suggesting that these were already powerful figures by the Sui. The Lin present at the rebellion may have been a Lin Baoyu 林宝昱 cited in a later Tang text as a Cishi of Quanzhou around the Sui-Tang transition, or his relative. 
+		- The first Buddhist temple in Putian was supposedly founded in a building donated by a local "Ru" named Zheng in 558; further evidence that a Zheng clan was prominent in coastal Fujian by the Sui. 
+	- The Wang clan of Nan'an is first attested in the Sui Shu as having taken over the local walled city in the rebellions of the late Chen. Even earlier a Wang Fangchi is cited as the Taishou of Liao'an 郡; this Wang Fangchi is the "earliest historically recorded figure from Minnan." 217
+- In the Tang Dynasty there began to emerge a class of prominent shi families whose power was based on success in exams. Different sources give different lists, but for example, the major clans of Tang-Song Nan'an included the Huang, Lin, Dan 单, Qi 戚, Chou 仇，Hong 弘, and Zhang 章. These families formed a group (the 南安望) which had some access to central government, but which was still relatively marginal among the empire's elites, and no Nan'an figure held a very high position at any time in the Tang. 230-31
+	- Wu notes that while the lesser families of the 南安望 emphasized their belonging to that group in the late Tang, the most influential families (the Lins in particular) deemphasized it and tried to associate themselves with other locales, e.g. by claiming their clans originated there before fleeing to Min during some disaster. Wu sees this tendency as an attempt by clans which were coming into contact with the elite of the central plain to assimilate into that elite, or at least to downplay their distance from it. 232-36
+	- The late Tang and 5 Dynasties was also the period when the story of literati fleeing to Fujian in the Eastern Jin took shape. Cites a poem called 永嘉乱衣冠渡流落南泉作忆昔吟 by 詹琲. The earliest stories relating to this incident referred to 4 surnames entering Fujian, which was later expanded to 8 -- Wu sees this as a sign of new clans coming to power around the Tang-Song transition. Notes that several of the "南安望" clans which did not assert themselves beyond the boundary were not included in the "8 surnames," suggesting that they declined or remained only locally prominent at the end of the Tang. 242
+- Emergence of a "shi" class after the mid-Tang: Han Yu believed that Fujian was home to numerous talented men who preferred to stay home in comfort rather than take distant posts; in fact Fujian's literati did try to take high posts, but they normally lacked the yin privileges that were the main route to high office, and so largely stayed within the 南选 system, which appointed southerners to southern provincial office, until this was abolished in Zhenyuan 12 (796). As the keju grew in importance after the Anshi Rebellion, Fujianese elites began to focus on exam success. Coastal Fujian had 70 successful candidates (42 from Fuzhou, 25 from Quanzhou, 3 from Zhangzhou) in the keju from c. 600-900. Many or most of these belonged to families which produced multiple degree holders, meaning that only a few dozen families had any exam success during this period. Concludes that by the end of the Tang the major Fujianese clans had "士族化了." 252
+
+Development of Fujianese Culture
+- Proposes to track the development of education via the spread of literary works. 
+- A local school had been established in Quanzhou at least by the end of the Tang, at least according to a story in the Taiping Kuangji; other sources (especially the Bamin Tongzhi) place the beginning of local education in Quanzhou at the early Song. 271
+	- The Minshu mentions a school founded in Zhangzhou as early as Wu Zetian's time, but Wu doubts this story. 
+
+Conclusion
+- Not much new, mostly emphasizes that the two parts of Fujian developed unevenly from the Nanbei Chao period on, with the northwest lagging the coast. 
+	- By the start of the Song, "整体而言，沿海的经济发展已经逐渐卷入商品经济的潮流，而内陆区大多数农村仍过着自给自足的生活，尚未被卷入商品经济的潮流。" 332

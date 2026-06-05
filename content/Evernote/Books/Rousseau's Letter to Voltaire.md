@@ -1,0 +1,3 @@
+---
+---
+“These differences lead me to believe that it is our abuse of life that makes it burdensome to us; and I have a far less favorable opinion of those who regret having lived, than of him who can say with Cato: “I do not regret having lived, inasmuch as I have lived in a way that allows me to think I was not born in vain. This is not to say that the wise man may not sometimes move on voluntarily without grumbling and despair, when nature or fortune distinctly conveys to him the order to depart. But in the ordinary course of things, human life is not, all in all, a bad gift, whatever may be the evils with which it is strewn; and while it is not always an evil to die, it is very seldom one to live.” 236

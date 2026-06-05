@@ -1,0 +1,11 @@
+---
+---
+YouTube talk at Columbia
+
+* Says that economists now mostly disagree with the Pomeranz claim that Jiangnan standards of living were similar to N. European ones as late as 18th C; however RBW says that the exact material standards are less important than mechanisms at work in both places. Thus W and R are looking for causal mechanisms that might explain different economic outcomes even before and without New World, coal, and cotton
+* Biggest difference bw China and Europe is spatial scale of the polity (fragmentation), and varying costs of war w scale. Persistent war in Europe altered placement of early industries, specifically biasing manufacturing towards cities due to greater defensibility. This later becomes important bc in cities capital is cheaper relative to labor, meaning more demand for technology which allows substitution of capital for labor.
+
+Wong and Rosenthal
+
+* Basic thesis is that fragmentation of Europe vs. unification of China was an advantage for China at first, but switched to an advantage to Europe once economic growth was increasingly driven by technological innovation in capital-intensive, labor-saving machines. “When one extends the analysis back in time, political reasons for different conditions in China and Europe come into sharp relief. These differences initially favored China because the empire could and did grow through Smithian principles of specialization and ex- change, but the same forces later favored Europe when political fragmen- tation increased the likelihood of capital using technological and organi- zational innovations. Our approach stresses comparisons between world regions and how differences between them created an increasing likeli- hood of dramatic economic change taking place in Europe rather than in China.” 6
+* “What we lose by presenting a less full history, we gain in temporal reach, for it is our claim that in 2050, when China will look much more like Europe economically than it does today, the factors we stress—institutions and political scale—should continue to help guide our exploration of the way polities and economies evolve, whereas the importance of endowments has faded as transport costs have collapsed.“ 8

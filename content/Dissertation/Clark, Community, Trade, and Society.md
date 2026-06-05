@@ -1,0 +1,8 @@
+
+5 - Demography and Networks
+- Chart on 77: In 980, Quanzhou prefecture counted 76,581 households, Zhangzhou around 41,662, and Xinghua 33,735; in 1080 the figures were 201,406; 100,469; 55,377; in 1241-52 Quanzhou had 255,758 households and Zhangzhou 112,014. 
+- An official named Lin Pang was credited with clearing several rapids in the Jin River which had obstructed travel between Yongchun and the lower reaches around 960, though the river was still considered rather treacherous well into the Southern Song. 
+- Cites Minshu that "Anhai Bay was by the turn of the twelfth century the site of at least one and possibly several markets," most notably Shijing at the northern tip of Anhai Bay, where Anping Bridge was built in 1151; previously travelers had to cross by ferry. On the other side of the bay, in Nan'an, was a tax station called Daying. 115-6.
+- In the 12th century naval bases were built along the Quannan coast, which Clark takes as defending preexisting market communities from pirates (such as the Visayan raid on Yongning in the Qiandao era). Major bases included Jiliao in Putian, Xiaodou in Hui'an, and Shihu, Fashi, Yongning, and Weitou in Jinjiang. Zhen Dexiu has a long essay on these forts which notes that Yongning people sailed to Penghu, which took about a day and a night. He also noted that these bases had markets and residences nearby and often traded peacefully with so-called "bandits." 116-117
+6 - Trade and economy 
+- Refers to a "genuine crisis" in the eleventh and twelfth centuries caused by the combination of monastic control over land and rapid population growth. 145

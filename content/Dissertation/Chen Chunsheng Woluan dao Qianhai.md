@@ -1,0 +1,4 @@
+- Proposes to see both the "wokou troubles" and "coastal clearance" periods as part of a long-term, continuous process of socio-political transformation in Chaozhou, in which the "imperial system" and "local society" had complex interrelations.
+- Quotes a preface to a Tongzhi era prefect Mao Cheng's writings that Chaozhou is difficult to govern because its people are largely merchants and thus unlettered; possibility that the traders of the relatively poor Chao-Zhang border zone are distinguished from the Quanzhou area in part by their relatively poorer prospects of exam success, lower degree of integration into state structures, than in "Zou-Lu by the sea." 87
+    - Mao Cheng himself saw the restiveness of the Chaozhou people as stemming from the habit of fortifying their villages which they developed during the late Ming wokou troubles. 88
+- 

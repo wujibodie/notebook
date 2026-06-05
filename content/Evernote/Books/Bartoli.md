@@ -1,0 +1,9 @@
+---
+---
+"È un mondo immenso di cose – della natura e dei mestieri, soprattutto quelli dell’agricoltura e della marineria – che vogliono le parole giuste e travolgono così le fragili barriere dei puristi del tempo. E le cose umane della storia di un mondo europeo che scopriva l’immensità delle civiltà orientali si dovettero creare anch’esse una loro «sel- va», l’immensamente più ricca «selva delle storie». "
+
+"Le immagini simboliche incise nei libri del suo confratello e vicino di stanza al Collegio Romano Athanasius Kircher illustravano l’ambizione smi- surata di un corpo religioso determinato a portare la fede cristiana in tutto il mondo con la sola forza dell’intelligenza e del dialogo. "
+
+"Con una immagine rigorosamente geocentrica e tole- maica dell’universo – il processo d’Inquisizione a Galileo era an- cora nell’aria – Daniello Bartoli rappresentava il percorso fatto dal sole della verità evangelica nell’illuminare il mondo come un viaggio lentissimo e arrestatosi molto presto. "
+
+"Se il zelo della religion ne’ fedeli, fosse ito almen del pari con la cupidi- gia dell’interesse, horamai l’Evangelio parlerebbe in tutte le lingue, la Croce fiorirebbe ancor ne’ deserti, la Fede havrebbe commercio nell’uno, e l’altro oceano, tutte le terre sarebbono una Christianità, e tutti i popoli una Chiesa. Impercioché dove la speranza d’alcun lieve guadagno, fin di colà delle più stranie parti del mondo ha fatto giungere in Europa o l’odor degli aromati o il suon dell’oro, o lo splendor de’ diamanti, e delle perle dell’India, non vi sono stati Oceani sì rivoltosi, climi sì stemperati, popoli sì selvaggi, isole sì lontane, idiomi sì barbari, che punto habbiano spaventato, o ritenuto in por- to otiosa la cupidità del guadagno, sì che per mezzo di tanti pericoli non sia corsa al maggior di tutti i pericoli, che è l’arricchire. "

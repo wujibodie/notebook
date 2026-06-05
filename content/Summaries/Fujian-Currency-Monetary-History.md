@@ -1,0 +1,25 @@
+# Fujian Currency and Monetary History Sources
+
+## Gu Yanwu, *Tianxia Junguo Libing Shu* (天下郡国利病书)
+
+Gu Yanwu (1613–1682), *Tianxia Junguo Libing Shu* [The Strategic Advantages and Disadvantages of the Prefectures of the Empire], in *Gu Tinglin Shiwen Ji* [Collected Works of Gu Yanwu] (Beijing: Zhonghua Shuju, 1959).
+
+Gu Yanwu's monumental work represents one of the most comprehensive analyses of Ming fiscal and administrative geography, compiled during his extensive travels throughout the empire. In his section on Fujian currency, Gu documents the extraordinary regional variation in monetary practices during the mid-Ming period, noting that while central Fujian (Fuzhou, Xinghua, Tingzhou, Shaowu, and Funing) did not use coins at all, coastal Zhangzhou and Quanzhou had complex systems involving multiple Song dynasty coinages that changed every few years. His field research reveals the practical failure of Ming currency policy, with private mints and historical Song coins dominating circulation rather than official era-name coinages. Gu's analysis demonstrates how coastal Fujian's commercial economy operated through non-state monetary instruments, presaging the region's transition to silver-based exchange by the late Wanli period. This source is crucial for understanding the disconnect between imperial monetary policy and local commercial practice in Minnan.
+
+## *Daoguang Chongzuan Fujian Tongzhi* (道光重纂福建通志)
+
+[Anonymous compilers], *Daoguang Chongzuan Fujian Tongzhi* [Recompiled General Gazetteer of Fujian, Daoguang Era], 53 vols., juan 53, "Qianfa" [Currency Laws] section (Fuzhou: Fujian provincial printing, 1829).
+
+This comprehensive provincial gazetteer, compiled during the Daoguang reign (1821–1850), preserves crucial documentation of Fujian's monetary history under the Ming. Its "Currency Laws" section reproduces Gu Yanwu's observations on regional coinage practices while adding administrative context about official minting policies. The gazetteer records the abortive Wanli-era attempt to establish provincial coinage mints under Pang Shangpeng's supervision, including the fourteen-point regulatory framework that sought to convert abandoned military camps into minting facilities. While the compilation postdates the Ming by two centuries, it preserves primary source materials—including Veritable Records citations and memorials—that might otherwise be lost. The work demonstrates how Qing scholars understood the Ming monetary system's failures and provides essential quantitative data on coinage valuations and silver conversion rates that illuminate the fiscal pressures driving Minnan's commercialization.
+
+## *Ming Shenzong Shilu* (明神宗实录)
+
+*Ming Shenzong Shilu* [Veritable Records of Emperor Shenzong of Ming], juan 66, Wanli 5, leap 8th month, xinyou day (Beijing: Zhongyang Yanjiuyuan Lishi Yuyan Yanjiusuo, 1962).
+
+This official chronicle of the Wanli reign (1573–1620) contains the primary documentation of Fujian Governor Pang Shangpeng's 1577 memorial proposing fourteen regulatory measures for provincial coinage reform. The memorial reveals the practical challenges of implementing monetary policy in a region where "currency laws had long been defunct" (*qianfa jiufei*). Pang's proposals attempted to bridge the gap between official minting and commercial practice by establishing exchange shops, permitting silver-copper bimetallism, and creating public-private partnerships for coin distribution. The Veritable Records entry captures the central government's approval of these measures, demonstrating the Zhang Juzheng administration's willingness to experiment with provincial-level monetary innovation. This source is essential for understanding how the Ming state attempted to adapt its fiscal institutions to regional commercial realities, and why such adaptations ultimately failed to establish stable copper currency in Fujian's silver-dominated economy.
+
+## Wanli *Jianning Fuzhi* (万历建宁府志)
+
+[Compiler unknown], *Jianning Fuzhi* [Gazetteer of Jianning Prefecture], Wanli edition, juan 4, "Wuchan" [Local Products] section (cited in modern scholarship).
+
+This local gazetteer from the Wanli period provides critical evidence for copper mining in northern Fujian during the late Ming. Its "Local Products" section notes that "copper and lead were produced in all eight counties" of Jianning Prefecture, contradicting assumptions that Fujian lacked mineral resources necessary for coinage. When combined with Republican-era gazetteer accounts of Wanli-period copper mining by imperial decree, this source establishes that material prerequisites for provincial minting existed during Pang Shangpeng's attempted currency reforms. The gazetteer illustrates how local geographical knowledge, embedded in county-level compilations, reveals economic capacities invisible in central government records. For understanding Minnan's fiscal history, this source demonstrates that the failure of monetary reform resulted not from resource constraints but from the incompatibility of official currency policy with the region's entrenched silver-based commercial networks.

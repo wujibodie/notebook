@@ -1,0 +1,14 @@
+Juan 1 - 閩
+恭謝天恩疏
+- 嘉靖四十二年二月
+- Relates that he left his position as 浙江布政使 in Jiajing 40 due to the death of his father, and was recalled after just 6 months (!!) to deal with Guangdong bandits (廣寇) attacking Jiangxi. He was then appointed as Xunfu of Fujian in 42; he wrote his letter of thanks from Jianyang, on his way to take up his appointment.  Amid the general protestations of his own unworthiness, mentions that Fujian has been plagued by wokou for decades, and none of the previous four xunfu were able to solve the problem -- awareness that Xunfu is still a relatively new role, introduced to Fujian specifically to organize anti-wokou efforts. 
+乞恩終志疏
+- Announces the successful pacification of the bandits in Jiangxi.
+飛報異常捷音疏
+- 嘉靖四十二年四月二十一日
+- Announces a victory at 平海衛 on 4.8 by 3 regiments (營) of Zhe armies of Yu Dayou (local 總兵) and Qi Jiguang (副總兵), and Jiangxi troops under Liu Xian (Jiangxi 總兵), with civilian oversight by Wang Daokun (兵備按察司副使), over the wokou armies which had taken Xinghua city. They encircled them at Pinghai wei by land and sea, then Qi's Zhejiang troops met with the local commanders of the Fuzhou and Xing-Quan circuits to crush the bandits with a mixed force of 10,000 men. Hu Shouren is mentioned as a 部下 of Qi Jiguang, with the rank of 統督總把. 援兵 troops were also borrowed from Jiangxi and Zhejiang. Total rewards to the troops, taken from county treasuries, amounted to 20,000 taels. Reports taking the heads of 2,200 wokou, though innumerable others were lost in the sea; 3,000 captive men and women were rescued. 
+飛報捷音疏
+- 嘉靖四十二年四月二十四日
+- Uses the opportunity of announcing a follow-up victory against a remnant wokou fleet fleeing Pinghaiwei to propose 12 reforms (十有二事上塵).
+- 1: 議複塞以扼外洋：At this time, Japan is still blamed for the troubles ailing Fujian: "照得八閩之地，西北阻山，東南濱海，海中諸國獨日本最為狡猾，藉我奸民垂間內侵." The direct identification of wokou with Japan largely disappears in later period. Tan identifies Japanese incursions as an issue since the Hongwu reign and the explanation for the density of garrisons along Fujian's coast, from Fuqing to Zhangzhou. In the past the 5 coastal garrisons of Fujian commanded 200 ships and 65,000 soldiers altogether. Each garrison could defeat small incursions alone, and they could combine their forces against larger threats and guard the outer seas (賊眾則合力並攻以扼外洋); it was rare that wokou were able to reach land, and when they did they investigations were launched into their collaborators. Over time, the garrisons declined, such that by Tan Lun's day they needed outside soldiers to help them; ends by recommending new officers to whip each of the 5 garrisons into shape. 
+- 2: 議處兵將以則實效: The previous Xunfu, 劉熹

@@ -1,0 +1,22 @@
+
+- Distinguishes her preferred periodization from the stadial vision of historical materialism as it uses different criteria; the ideas of 古代 中世 近代 are not so much founded on objective factors as disputed impressions of generations of historians. 
+- Goals of first essay: 1. Reflection on her own requirements/desiderata for periodization. 2. Interrogation of key existing periodizations, particularly their concepts of structure 構造, system, and development 發展 from the perspective of Chinese history. 
+- Mentions that when she first encountered Braudel in the 80s, she failed to see what was novel (from a background in historical materialism) about praising "structure" over "events;" now sees his contribution as removing demand for directionality in histroy, and enabling more precise analysis of relations between timescales. 
+- The move to "regional times" ends with a reintegration of regions into a global "early modern" (Fletcher + Abu-Lughod). Crucial role of nomads and seafarers as agents of "connection" cross-region, unifiers of rhythm. World history that's not about universal principles or world systesm but the natural connections witnessed between interwoven "regions," with the "local" still an empirical starting point. Fletcher + Abu-Lughod describe, rather than analyze the cause of, connected systems. This 如此即可 approach, opposed to post-war scientism, brings us back to the pre-war 經驗式歷史觀察法。 
+	- Final call: to search for the signs of natural divisions in the waves caused by ongoing clashes of "semi-open systems" with on another. 
+	- Robert Innes, The Door Ajar
+2.  Development or Fluctuation? 
+	- 3 questions: How has the term 近世 come to be applied to China? What are the core methodological questions of "early modern theory?" How can we desribe a macro-level Chinese early modern?
+	- Naito Konan did not distinguish 近世 + 近代。 Liang Qichao believed China's 近世 started after Qianlong; later reformists saw China's 近代 as starting with the Opium War, and 近世 disappeared from Chinese historiography, whereas Japanese historians distinguish the two very clearly. 
+	- Kishimoto's view: the 16th-18th centuries are a global "early modern" not because Europe and China were the same, or were incorporated into one "world system," but because various distinct regions became increasingly interconnected with their fluctuations 波動 happening in rhythm 節律. 
+	- Sees a common pattern of militarization and state formation along all China's peripheries precisely in line with the burgeoning of commerce and silverization -- Nurhaci 1588, Toyotomi Hideyoshi 1590, Wang Zhi 1560, Zheng Zhilong 1628. Connection to rise of maritime absolutist states (Aceh, Johor?) in 1500s (Reid). New authorities combinong military might + centralization of gains from trade. These are the conditions which give rise to the great powers of the 18th century. However, the resulting regimes answered the "common problems" of the 16th century in different ways. 
+3. Custom and Views of History
+	- In Japanese scholarship, 風俗 has been taken as having both purely descriptive and strongly normative importance -- is it more "praxis" or "law"?
+		- Proposed to look at the characteristics of the classical concept of 風俗, and its importance to 明末 thinkers. 
+	- Compared to "custom," "culture," “civilization," 風俗 does have both "regional" and "directional" elements, but local habits are evaluated and altered by the ruler and 士大夫；descriptions of 風俗 are part of a political evaluation of social order. 
+	- Both rural  + urban 風俗 could be criticized -- the measure was neither "cultivation" nor "naturalness" but education, orderliness. 
+	- 風俗 could be altered by rulers, but still possessed a momentum of their own -- traditional commentary neither "individualist " or "structuralist" -- 風俗 as 個人行爲的集合。
+	- Gu Yanwu primarily viewed history through 風俗, with high points in East Han and Song. Rulers do change 風俗 but it also moves from below -- possibility of **improvement** in history, without a necessary directionality -- moral agency is determinative. 
+	- Turn to 風俗 as explanation by intellectuals experiencing a sensation of "crisis." 
+	- Gu Yanwu 注目的不是制度本身，而是各種制度給予社會風俗的影響. State and institutions are unreliable, so Gu seeks to lean on 風俗 -- we who feel our state is stable may have trouble understanding this... 
+	- Core question: “如何不陷入禽獸世界？”Relation to Hobbes, Montesquieu. 

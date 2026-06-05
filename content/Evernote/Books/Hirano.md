@@ -1,0 +1,17 @@
+---
+---
+Starting point: Rejects a view of Edo popular culture being either “escapist” or a form of “decentered… cultural resistance.” Hirano sees a “dialogic imagination” at play which expresses contradictions between real social hierarchies and those maintained by the Tokugawa, especially real primacy of merchants over samurai. " The dialogic imagination visualized the disintegration of the totality and presented new understandings of divergent social realities.”
+
+* Particularly contested is the “body,” which the ruling ideology values for production while being suspicious of desire/excess, while popular depictions transform it into “an almost inexhaustible source for the production of new identities, sensibilities, and imaginations,” with a powerful allure across social ranks. 
+* "What made the popular culture’s celebration of play and pleasure—the sphere of “idleness”—a problem for the Tokugawa authorities was that it represented a “weakest link,” to borrow Lenin’s words, or “conjunctural moment,” of the social totality as it produced and amplified the sense of the “dissolution of (the existing) unity” through its brazen disregard for the moral imperatives of status identities and socioeconomic functions."
+* State attempts to suppress “idle” culture inadvertently established a “contestatory perspective” by which “entertainment” became a scene for the articulation of identities explicitly counter to those promoted by the state.
+
+Claims that “grotesque realism” operated to “foreground the ways in which ideology naturalized the mechanisms of domination by concealing their actual conditions.”
+
+Cites Althusser’s rejection of the idealism of the Hegelian “contradiction” in favor of a materialist concept of “overdetermination.” Matsuyama Marao: Post-war intellectual who blamed the supposed failure of Japanese modernization on the failure of Japanese people to become Hegelian subjects consciously intervening in history on the side of free will; downplaying of conflict in favor of progress through “idealist,” “internal” sublation of contradictions in march towards free, capitalist, democratic society. "For both \[orthodox\] Marxists and Maruyama, it was the idea of Hegelian sublation—the universal process of dialectical unfolding of the Spirit (or the Economy, for the former)—that propelled history toward progress.”
+
+Notion of popular culture as a site where normative discourses emerge which draw on “common sense” to represent the ideologically determined social structure even as they transform or contest it. Or: representations of the normative structure of society, recreations of real moments experienced in society, inevitably leaves room for dissenting, satirical, or simply orthogonal reactions, represented explicitly and not.  Simultaneous reinforcement and disruption of dominant values. 
+
+* "This concept of social formation of power is critical for my analysis of the politics of Edo popular culture because it was, I argue, the culture’s conscious and unconscious articulation (especially in its literary and artistic forms) of the “ruptural unity,” or “a “fusion of an accumulation,” of contradictions in and of dominant ideological and socioeconomic structures that made itself a salient symptom of “crises” widely felt from the middle of the Tokugawa period onward."
+
+Ends introduction by citing Jameson re: aesthetic realm inducing dialectical reflection on hsitoricity of dominant social structure as a key to his analysis of Edo popular culture.
