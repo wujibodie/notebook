@@ -12,8 +12,9 @@ replit.nix
 .quartz/
 quartz/cli/tui/dist/
 
-# --- Content: ignore everything except selected folders ---
+# --- Content: ignore everything except index.md and selected folders ---
 /content/*
+!/content/index.md
 !/content/Dissertation/
 !/content/Dissertation/**
 !/content/Primary Sources/
