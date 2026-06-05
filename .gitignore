@@ -11,3 +11,16 @@ private/
 replit.nix
 .quartz/
 quartz/cli/tui/dist/
+
+# --- Content: ignore everything except selected folders ---
+/content/*
+!/content/Dissertation/
+!/content/Dissertation/**
+!/content/Primary Sources/
+!/content/Primary Sources/**
+!/content/Reading Notes/
+!/content/Reading Notes/**
+!/content/Evernote/
+/content/Evernote/*
+!/content/Evernote/Books/
+!/content/Evernote/Books/**

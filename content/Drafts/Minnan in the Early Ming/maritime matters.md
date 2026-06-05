@@ -1,7 +1,0 @@
-The urban maritime-commercial elites of the Southern Song and Yuan dynasties were eviscerated in turn, and when long-distance ocean trade returned to Minnan society, it was organized on new lines: the magnates who protagonized and protected it were now largely *rural* or town-based gentry lineage heads. Their primary advantages were access to ready capital, a certain degree of persuasive ("extra-economic") power over labor (often sourced from dependents in their own clans), and the ability to negotiate productively with military officials. The seeds of new urban oligarchies perhaps began to sprout, after 1567, in Haicheng and Anping, but these towns were broken by the storms of the 17th century  before they could flower into true cities.
-
-
-
------ 
-
-Kishimoto Mio sees a common pattern of militarization and state formation along all China's peripheries precisely in line with the burgeoning of commerce and silverization -- Nurhaci 1588, Toyotomi Hideyoshi 1590, Wang Zhi 1560, Zheng Zhilong 1628. Connection to rise of maritime absolutist states (Aceh, Johor?) in 1500s (Reid). New authorities combining military might + centralization of gains from trade. These are the conditions which give rise to the great powers of the 18th century. However, the resulting regimes answered the "common problems" of the 16th century in different ways. Compare to e.g. Iwai Shigeki's take on maritime trade, Andrade on agrarian vs. maritime based revenue regimes. 
