@@ -12,7 +12,7 @@ Zhongguo Shehui Jingji Shi Yanjiu, 1990.01：56-64.
 - Silver rents were especially harmful to peasants because, assuming they weren't able to save silver, they would be forced to sell their harvests at the worst prices of the year in order to pay rent; and at other times they would be forced to take loans for their rent. Thus landlords and financiers profited from peasant inability to escape these seasonal rhythms.　５８
 	- Several illuminating quotes from 周之夔，弃算文集
 - In general the thrust of literati argument in the Wanli years was to *reverse* silverization of rents, and it seems this trend was welcomed by the peasants, which Chen Zhiping thinks is "worth chewing over." 59
-- Finds that at all times monetary rents were relatively rare; even in the Mingo era only around 11-12% of (rural?) rents in Fujian were paid in money. In Huizhou less than 1% of rents in the early 19th century were monetary. Summary: "How could we expect this level of monetary rents to stimulate the emergence of buds of capitalistic production?" 59
+- Finds that at all times monetary rents were relatively rare; even in the Minguo era only around 11-12% of (rural?) rents in Fujian were paid in money. In Huizhou less than 1% of rents in the early 19th century were monetary. Summary: "How could we expect this level of monetary rents to stimulate the emergence of buds of capitalistic production?" 59
 - ![[Pasted image 20260501235756.png]]
 - Note: of the minority of (Qing) Fujianese land contracts denominated in money, almost 9/10ths were for mountain land! I.e., grain-producing land would normally have grain rents. 59
 - Finds that lands recorded in lineage genealogies  more frequently had monetary rents recorded than the land found in private contracts. 

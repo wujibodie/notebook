@@ -23,28 +23,28 @@
     
 - The 1530 Huian gazetteer was compiled by Zhang Yue, "Huian county's most prominent native son in the sixteenth century serving incorruptibly and energetically in office" (pp. 43-44).
     
-- **Key for your argument about fiscal knowledge:** Ye was distressed by the lack of maps in the 1530 gazetteer. "The need to get taxable land into view and onto the books was a standard task for the local magistrate. Just at the time that Ye was posted, this need gained a particular urgency because of the nationwide move to reallocate fiscal levies from labor to land, a trend that would culminate in the next few years in a set of changes known as the Single Whip reforms" (p. 45).
+- **Key for argument about fiscal knowledge:** Ye was distressed by the lack of maps in the 1530 gazetteer. "The need to get taxable land into view and onto the books was a standard task for the local magistrate. Just at the time that Ye was posted, this need gained a particular urgency because of the nationwide move to reallocate fiscal levies from labor to land, a trend that would culminate in the next few years in a set of changes known as the Single Whip reforms" (p. 45).
     
 - Ye called together thirty-odd "local elders" to discuss county affairs and ordered maps drawn. "When the elders' maps were submitted, they did not tally [with each other]" (p. 46). They had simply traced pre-existing drawings onto grids rather than actually surveying.
     
-- **Direct evidence of gentry resistance to state knowledge:** "Staving off the state was just what the local elite of Huian county were up to when the 'elders' handed in to Magistrate Ye their first set of maps. Ye was canny enough to check whether there was any substance behind their apparent conformity to his wishes and discovered that there was not. Their maps traced what was already in the land registers, not what actually lay on the landscape. A less ambitious magistrate would have let the matter drop and allowed local society to dictate to the state what its terms of access to local resources would be" (p. 187).
+- Gentry resistance to state knowledge-gathering: "Staving off the state was just what the local elite of Huian county were up to when the 'elders' handed in to Magistrate Ye their first set of maps. Ye was canny enough to check whether there was any substance behind their apparent conformity to his wishes and discovered that there was not. Their maps traced what was already in the land registers, not what actually lay on the landscape. A less ambitious magistrate would have let the matter drop and allowed local society to dictate to the state what its terms of access to local resources would be" (p. 187).
     
 - Ye's solution: he recruited "the well-read among the scholars junior to me" to help compile documents, explained Luo Hongxian's grid method, and mobilized local elders and village leaders to draw maps at the lijia hundred level—155 local maps, then 27 township maps (pp. 48-49).
     
 - Ye's biography in the 1763 Quanzhou prefectural gazetteer: "He did not defer to the powerful. While he was in office, they were obliged 'to stay their hands and did not dare to break the law.' Clearly, his strict administration of county affairs—and more to the point, his resurvey of agricultural land—made him enemies" (p. 56). When promoted, an enemy absconded with the transfer order, forcing Ye into 18 years of retirement.
     
-- **Important for your argument about reform limits:** Despite Ye's innovations, "the grid method... did not circulate widely: _Administrative Records of Huian_ was almost completely unknown at the time and has survived in only one reprint copy. ... The accuracy he strove for as a magistrate in the midst of the Single Whip reforms was not continued beyond that time, when it seems that magistrates were content to make do with what was on the books" (p. 59).
+- Reform limits: Despite Ye's innovations, "the grid method... did not circulate widely: _Administrative Records of Huian_ was almost completely unknown at the time and has survived in only one reprint copy. ... The accuracy he strove for as a magistrate in the midst of the Single Whip reforms was not continued beyond that time, when it seems that magistrates were content to make do with what was on the books" (p. 59).
     
 
 ### Chapter 3: Taxing Polders on the Yangzi Delta
 
-**Comparative material for your land reclamation discussion:**
+**Comparative material for land reclamation discussion:**
 
 - The 1472 reorganization in Huzhou (adjacent to Fujian-type reclamation areas) abandoned wards for land registration, choosing "to assess taxes by using the field boundaries as they actually existed. It was an approach that effectively reversed the Hongwu relationship between state administration and social practice" (p. 64).
     
 - **Useful concept:** "Altering registration from hundred/ward communities to the field boundaries that defined polders was a significant shift. Polders were anything but an arbitrary number of households. They were fields that had been patiently constructed... and that had come to determine where households lived and how communities formed. The embankments... were boundaries of property and boundaries of community" (p. 68).
     
-- **Applicable to your argument about sea reclamation:** "In the case of polder agriculture, the equitable distribution of the service levy was crucially important, since all who farmed inside the polder depended on the maintenance of its walls and canals and the communal operation of irrigation works, a breakdown in any of which spelled ruin for the entire polder community" (p. 69).
+- **Sea reclamation:** "In the case of polder agriculture, the equitable distribution of the service levy was crucially important, since all who farmed inside the polder depended on the maintenance of its walls and canals and the communal operation of irrigation works, a breakdown in any of which spelled ruin for the entire polder community" (p. 69).
     
 
 ### Chapter 4: Growing Rice in North Zhili
@@ -53,12 +53,12 @@
 
 - Gu Yanwu was "an equally strong advocate of rice in North Zhili, believing it to be a viable way of easing the strain on food supplies for the large number of soldiers stationed in north China" (p. 81). Parallel to your grain-deficit argument.
     
-- **Direct quote usable in your grain dependence section:** "The transport of military grain from south China, where it was mostly grown, to north China, where it was needed to support the large garrisons on the border, was a large, long-standing charge on the imperial state" (p. 81).
+- **Direct quote usable in grain dependence section:** "The transport of military grain from south China, where it was mostly grown, to north China, where it was needed to support the large garrisons on the border, was a large, long-standing charge on the imperial state" (p. 81).
     
 
 ### Chapter 5: Building School Libraries in the Mid-Ming
 
-**Relevant to your discussion of Lin Xiyuan and gentry culture:**
+**Relevant to Lin Xiyuan and gentry culture:**
 
 - The standard term for a school library in the Ming was "Pavilion for Revering the Classics" (_Zunjing ge_), which pushed out the earlier "Pavilion for Storing the Classics" (_Cangjing ge_)—part of "the general anxiety neo-Confucians felt about covering their tracks on the way to metaphysics" (p. 102).
     
@@ -69,17 +69,15 @@
 
 ### Chapter 7: At the Margin of Public Authority: The Ming State and Buddhism
 
-**Directly relevant to your section on dissolution of monasteries:**
+**Directly relevant to section on dissolution of monasteries:**
 
-- **Key quote for your argument:** "The Hongwu emperor, himself a former Buddhist monk, sharply restricted the number, landholdings, and attached populations of the Buddhist temples" (p. 142). The amalgamation order of 1391 "altered institutional Buddhism in China more thoroughly than any previous suppression, and there would be nothing like it again until the 1950s" (p. 145).
+- "The Hongwu emperor, himself a former Buddhist monk, sharply restricted the number, landholdings, and attached populations of the Buddhist temples" (p. 142). The amalgamation order of 1391 "altered institutional Buddhism in China more thoroughly than any previous suppression, and there would be nothing like it again until the 1950s" (p. 145).
     
 - The 1391 "hundred-day edict" required "the majority of smaller monasteries throughout China to close and to transfer their residents and property to a limited number of larger institutions" (p. 144). Implementation was largely completed within the hundred-day limit, though some amalgamations continued until 1415.
     
 - **Direct Fujian example:** "In Fujian, a limit of 60 mu per monastery was set in 1452 and then raised to 100 mu in 1480, though neither appears to have been enforced" (p. 148). "A wave of state interventions in monastic landholding did occur in Fujian in the latter third of the sixteenth century when the state needed emergency funds to meet military costs, but this involved the expropriation only of rent, not of the land itself" (pp. 148-149).
     
-- **Crucial for your Lin Xiyuan discussion:** Lin was "among the most prominent critics of Buddhism in Fujian." In his Yongchun gazetteer preface on monasteries: "of the 68 Buddhist establishments which had existed in that county in the Song, only 16 remained: while 'as for their land and grain, some went to the people. As for Daoist abbeys, shrines to local gods, and other heterodox temples, these are now being gradually destroyed by local worthies: some have been turned to academies, others to community schools. Here we see [the difference between] evil and righteousness, between flourishing and decline! I've recorded their rise and destruction in this register while awaiting the gentlemen who will set matters right'" (p. 171 in your draft, but I'd need the original Brook page).
-    
-- **Lin's personal benefit:** "Lin was no disinterested observer in the carving-up of the [monasteries]: when he returned to Tong'an after being dismissed from office, he himself was granted land from an abolished temple by an admiring local magistrate. This land became the kernel of what became Lin's lineage estate, granting him a firm foundation befitting his role as clan patriarch" (p. 171).
+- ** Lin Xiyuan discussion:** Lin was "among the most prominent critics of Buddhism in Fujian." In his Yongchun gazetteer preface on monasteries: "of the 68 Buddhist establishments which had existed in that county in the Song, only 16 remained: while 'as for their land and grain, some went to the people. As for Daoist abbeys, shrines to local gods, and other heterodox temples, these are now being gradually destroyed by local worthies: some have been turned to academies, others to community schools. Here we see [the difference between] evil and righteousness, between flourishing and decline! I've recorded their rise and destruction in this register while awaiting the gentlemen who will set matters right'"
     
 
 ### Chapter 8: Buddhism in the Chinese Constitution
@@ -91,13 +89,12 @@
 
 ### Conclusions: States of the Field
 
-**Methodological framing for your argument:**
 
 - Brook argues against the "despotism" paradigm: "Rather than launch a comparative study by testing the Ming state for the attributes of the modern European nation-state, let us shift the comparison to the late-medieval period" (p. 185).
     
-- **Key for your thesis about Fujian's divergence:** "The Single Whip reforms and the surveys required to implement them, of the sort that Ye Chunji carried out in Chapter 2 and local officials in polder regions attempted in Chapter 3, were not imposed with the uniformity and unwavering determination that propelled the lijia system into practice. These reforms originated in a different way, growing up out of local state practice rather than descending from the court" (p. 187).
+- "The Single Whip reforms and the surveys required to implement them, of the sort that Ye Chunji carried out in Chapter 2 and local officials in polder regions attempted in Chapter 3, were not imposed with the uniformity and unwavering determination that propelled the lijia system into practice. These reforms originated in a different way, growing up out of local state practice rather than descending from the court" (p. 187).
     
-- **Crucial quote about state-society negotiation:** "As magistrates struggled to reorganize the local interface with the state's fiscal system under the pressure of a changing economy they came up with solutions that varied from one county to the next, and that worked best when they accessed knowledge of where the productive fields in the county actually lay and who owned them—knowledge that the state needed but that local elites had an interest in hiding" (p. 187).
+- **State-society negotiation:** "As magistrates struggled to reorganize the local interface with the state's fiscal system under the pressure of a changing economy they came up with solutions that varied from one county to the next, and that worked best when they accessed knowledge of where the productive fields in the county actually lay and who owned them—knowledge that the state needed but that local elites had an interest in hiding" (p. 187).
     
 - **On Ye Chunji's experience:** "Staving off the state was just what the local elite of Huian county were up to when the 'elders' handed in to Magistrate Ye their first set of maps. Ye was canny enough to check whether there was any substance behind their apparent conformity to his wishes and discovered that there was not. ... A less ambitious magistrate would have let the matter drop and allowed local society to dictate to the state what its terms of access to local resources would be" (p. 187).
 
