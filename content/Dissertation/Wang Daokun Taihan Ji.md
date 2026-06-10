@@ -64,6 +64,10 @@
 	- Writes that Wuhu is one of the main commercial thoroughfares of the empire due to its proximity to Nanjing, and is also one of the areas that pays the most taxes in the whole empire, but as it was not a 郡, it went without a wall until the 島夷 incursions of the Jiajing years. At that time, robbers repeatedly stole thousands of *mian* in cash from the town's (tax?) treasury. 
 	- Would be valuable to compare with some of the wall inscriptions from Fujian
 ## Letters
+- 游中丞 (1935-6)
+	- Written to You Zhende while Wang was serving as zhifu of Xiangyang in 1561. 
+- 吳峻伯 (1937-42)
+	- Numerous letters to this person, who I haven't yet identified. Some discuss Anhui affairs, others Wang's early experiences in Fujian. In general all are focused on military affairs. The third mentions Fujian bandits being defeated by *kebing*: 閩寇殲盡，材官始得息肩。然而虜情不可以預謀，軍餉不可以覆請，客兵不可以遽罷，常賦不可以取盈。
 - 許相公
 	- 不佞道昆越在草莽，何敢與朝廷之議，干威福之權？第吾鄉故有任事之臣，功浮於罪，時蒙世祖見察，迄今未白其冤，此亦相公之所習知，鄉黨之所深隱者也。弟威福自天子出，無敢囂嚅而吐一辭。幸而政府直道賛襄，虛心容納，無幽不闡，無枉不伸。凡諸疆事未修，躬行無缺，藉令在辟，猶追錄之，蓋將以惟藎勸忠，以瑕庇棄過者也。當胡少保在事，東南岌岌乎殆哉。彼其以五【？】夷，以五間間夷，成則上功，否則無赦，一反手耳。于時事由中制，政以賄成，少保內不顧身家，外不顧毀譽，上不避刑戮，下不避猜疑，如將以糜費結納而繩墨之，固多小過。卒之敵如就縻，墨如受畀，蕩平底績，遺東南數千里之安，是曰愚忠，其愚不可及也。太上廣厲臣工，無論存殁，二三元府操其衡石，至公至明。鄉人寧詎以月旦之私，借資九鼎？第匹夫匹婦猶能止雨飛霜，況世祖之力臣，寧卽湮滅？比者東南不歲，九原尚亦有望乎哉？自嘉靖以來，吳越則屬少保，百粵則屬司徒，八閩亦嘗屬之不佞，皆新都產也。猶之四坐具在，酌者乃行巨觥，皆曰不勝，惟新都能耳。旣舉旣釂，則又曰夫夫醉矣，將安用此酒徒？少保之功獨優，其受法尤烈，不佞有懷骯髒，敢哆口而一申之。總兵戚繼光卒以貪死，卹典不及，聞之廟議未定，其何以勸方來？倘有擇于芻蕘，似亦礪世磨鈍一道也。惟相公體之、亮之、蓋之、容之。
 	- A plea to Xu Guo for the posthumous rehabilitation of Hu Zongxian's name, written around 1588 (shortly after Qi Jiguang's death). Makes explicit appeal to a sense of local loyalism, noting that Wang, Xu, Hu, and also Yin Zhengmao were all Huizhou people. 

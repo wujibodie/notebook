@@ -2,7 +2,6 @@
 白栋 - 陕西米脂人. Jinshi LQ 5. 道御史、东阿知县. Known for implementing the Single Whip method.
 ## Cao Daye
 曹大野 - 四川巴县人. Jinshi LQ 2. 江西巡抚、给事中. Known for impeaching Gao Gong, allegedly instigated by Zhang Juzheng.
-
 ## Cao Xuequan 
 曹学佺 (能始）- 福建福州候館縣人. Jinshi WL 23. Book collector and Donglin partisan who had an undistinguished official career but in old age held a high position in the court of the Longwu emperor, before committing suicide when Fuzhou fell to the Qing. Wrote a yeshi on the Wanli reign (野史纪略), and voluminous commentaries and selections on poetry. Considered himself a follower of Li Zhi and Jiao Hong, and corresponded with Xie Zhaozhe. 
 - “……语云:‘始乎简，终毕乎巨。君子以察浸祥，以审风俗，召好去恶，于斯乎在，乌可苟哉？’”(《石仓全集·夜光堂近稿》
@@ -103,6 +102,10 @@ Acquired fame for his bold remonstrance to the Jiajing emperor, for which he was
 - The 明史 (Hu Zongxian's bio) mentions that he impeached Hu Zongxian, who at the time was still "protected" by Yan Song, causing Liu's dismissal for 10 years; however Huang Fengxiang's version of events doesn't mention Liu, so he presumably wasn't too important among those attacking Hu at the time.
 ## Liu Yingjie
 劉應節 （北川) - 山東濰人. Zongdu of Ji-Liao.
+
+## Luo Qingxiao
+
+
 ## Luo Yueyan
 羅月巖 - A friend of Zhang's; Zhang wrote to console him after he was demoted.
 ## Lv Tiaoyang
@@ -166,7 +169,7 @@ Acquired fame for his bold remonstrance to the Jiajing emperor, for which he was
 ## Wang Zhuan
 王篆 - 湖广夷陵人. Jinshi JJ 41. 吏部左侍郎、两京京督察院御使. Involved in bandit suppression, river defense, and military personnel management.
 ## Wang Zongmu
-王宗沐 （新甫，敬所）- 浙江臨海縣人. Jinshi JJ 23. 刑部左侍郎、南京刑部右侍郎，漕运总督兼凤阳巡抚. Never reached a top post, but was an associate of Wang Shizhen, a proponent of 講學, advocate of maritime shipping of tax grain, and (according to Gu Yanwu) the author of a treatise on 一條鞭法 which inspired Pang Shangpeng (included in a work titled 均書!). More of a Zhejiang gentry/literati figure famous for proposals outside his official career. Promoted maritime transport and managed water transport.
+王宗沐 （新甫，敬所）- 浙江臨海縣人. Jinshi JJ 23. 刑部左侍郎、南京刑部右侍郎，漕运总督兼凤阳巡抚. Never reached a top post, but was an associate of Wang Shizhen, a proponent of 講學, advocate of maritime shipping of tax grain, and (according to Gu Yanwu) the author of a treatise on 一條鞭法 which inspired Pang Shangpeng (included in a work titled 均書!). More of a Zhejiang gentry/literati figure famous for proposals outside his official career (comparable to Bao Shichen). Promoted maritime transport and managed water transport.
 - Also edited the Wanli Jiangxi Provincial Gazetteer, as well as a 宋元資治通鑑，and editions of Zhu Xi and Liu Jiuyuan's works.
 ## Wang Zongzai
 王宗载 - 湖广京山人. Jinshi JJ 41. 协院左佥都御史、右佥都御史巡抚江西、大理寺右少卿. Involved in framing Liu Tai and conducting land surveys in Shanxi.
@@ -178,6 +181,9 @@ Acquired fame for his bold remonstrance to the Jiajing emperor, for which he was
 吴桂芳 - 江西新建人. Jinshi JJ 23. 工部尚书、总督漕运巡抚凤阳, 兩廣巡撫. Dredged Caowan River, managed river transport, and built Gaoyou Lake dikes. Oversaw Yu Dayou's campaigns in Guangdong as well as the formal recognition of Macao's status as permanent settlement. 
 ## Xiao Lin
 萧廪 - 江西万安人. Jinshi JJ 44. 右副都御史巡抚浙江、右佥都御史巡抚陕西. Focused on horse administration and tax exemptions.
+
+## Xie Bin
+謝彬 - Author of Jiajing/Longqing era proposals copied in the Haicheng Xianzhi. 
 ## Xie Zhaozhe
 謝肇淛 （在杭，武林）- 福建福州人. 廣西左布政使. Jinshi WL 20. Born to Fujianese father in Hangzhou Qiantang (hence the zi?). Fuzhou literatus, river-management specialist, and dilettante (never returned a copy of Jinpingmei he borrowed). Ended a solid but unspectacular official career with a series of high positions in Yunnan and Guangxi. Wrote the [五雜俎](https://zh.wikisource.org/wiki/五雜俎)
 ## Xiong Fu
@@ -210,6 +216,10 @@ Acquired fame for his bold remonstrance to the Jiajing emperor, for which he was
 殷正茂 (养实，石汀)- 南直隸徽州歙縣人. Jinshi JJ 26. 南京刑部尚书，户部尚书，兵部尚书兼右副都御史提督两广军务. Liangguang Zongdu from Wanli 1-4, including most of the Lin Feng campaign. Suppressed rebellions in Guangxi including Gutian and Huang Chaomeng, eliminated bandits and Japanese pirate threats in Guangdong. Close confidant of ZJZ, especially early on. 
 - **《漳州府志》** (Wanli edition): Contains memorials exchanged between Yin Zhengmao and Liu Yaohui regarding the division of naval forces during Lin Feng’s 1574 raid.
 - **《泉州府志》**: Records Yin’s requisitioning of Quanzhou shipwrights to rebuild the Guangdong naval fleet.
+
+## You Zhende
+游震得 （汝潛) - 南直隸婺源縣人。Jinshi JJ 17. Fujian Xunfu from 1561-3; removed and censured following the fall of Xinghua. Earliest superior of Wang Daokun in the province. 
+
 ## Yu Dayou
 俞大猷 （志輔，虛江）-  福建泉州晉江人. Jinshi JJ 14. 浙江，福建總兵. The great Quanzhou general/admiral and "old thief" (per Zhang JZ).
 ## Yu Zigao
